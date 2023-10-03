@@ -1,0 +1,2061 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (__sread)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_close_r)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o) (errno)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o) (_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_lseek_r)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_read_r)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o) (_write_r)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o) (__call_exitprocs)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o) (_free_r)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_malloc_r)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o) (__malloc_lock)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o) (_fflush_r)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o) (_sbrk_r)
+libcanzero-app.a(main.c.obj)  /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (main)
+libcubemx.a(system_stm32f4xx.c.obj)
+                              CMakeFiles/canzero-app-boot.dir/startup.s.obj (SystemInit)
+libcubemx.a(stm32f4xx_hal.c.obj)
+                              CMakeFiles/canzero-app-boot.dir/entry.c.obj (HAL_Init)
+libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+                              libcubemx.a(stm32f4xx_hal.c.obj) (HAL_NVIC_SetPriorityGrouping)
+libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+                              CMakeFiles/canzero-app-boot.dir/entry.c.obj (HAL_RCC_OscConfig)
+libcubemx.a(cmsis_os2.c.obj)  CMakeFiles/canzero-app-boot.dir/entry.c.obj (osKernelInitialize)
+libcubemx.a(heap_4.c.obj)     libcubemx.a(cmsis_os2.c.obj) (pvPortMalloc)
+libcubemx.a(port.c.obj)       libcubemx.a(cmsis_os2.c.obj) (vPortEnterCritical)
+libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+                              libcubemx.a(stm32f4xx_hal_rcc.c.obj) (HAL_GPIO_Init)
+libcubemx.a(event_groups.c.obj)
+                              libcubemx.a(cmsis_os2.c.obj) (xEventGroupCreateStatic)
+libcubemx.a(list.c.obj)       libcubemx.a(event_groups.c.obj) (vListInitialise)
+libcubemx.a(queue.c.obj)      libcubemx.a(cmsis_os2.c.obj) (xQueueGenericReset)
+libcubemx.a(tasks.c.obj)      libcubemx.a(port.c.obj) (pxCurrentTCB)
+libcubemx.a(timers.c.obj)     libcubemx.a(tasks.c.obj) (xTimerCreateTimerTask)
+_deps/canzero-kernel-build/libcanzero-kernel.a(lib.c.obj)
+                              CMakeFiles/canzero-app-boot.dir/entry.c.obj (kernel_init)
+/usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                              libcubemx.a(stm32f4xx_hal_rcc.c.obj) (__aeabi_uldivmod)
+/usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+/usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+                              libcubemx.a(cmsis_os2.c.obj) (memcpy)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o) (_close)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o) (_lseek)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o) (_read)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o) (_sbrk)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o) (_write)
+/usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crti.o
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crti.o
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .data.__dso_handle
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x00000000       0x70 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .debug_line_str
+                0x00000000       0x94 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .text.atexit   0x00000000        0xc /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .debug_info    0x00000000      0x118 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .debug_abbrev  0x00000000       0xc1 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .debug_loclists
+                0x00000000       0x2a /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .debug_line    0x00000000       0xe4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .debug_str     0x00000000      0x1fc /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .debug_frame   0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-atexit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x24 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_info    0x00000000      0x11b /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_abbrev  0x00000000       0xd8 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_loclists
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_line    0x00000000      0x159 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_str     0x00000000      0x1e5 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.stdio_exit_handler
+                0x00000000       0x18 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.cleanup_stdio
+                0x00000000       0x40 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock
+                0x00000000       0x18 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock
+                0x00000000       0x18 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.global_stdio_init.part.0
+                0x00000000       0x3c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_acquire
+                0x00000000        0xc /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp_lock_release
+                0x00000000        0xc /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_lock_all
+                0x00000000       0x1c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text.__fp_unlock_all
+                0x00000000       0x1c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .bss.__stdio_exit_handler
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text._fwalk_sglue
+                0x00000000       0x3c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_info    0x00000000      0x7d2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_abbrev  0x00000000      0x19b /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_loclists
+                0x00000000       0x85 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_line    0x00000000      0x1d6 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_str     0x00000000      0x4ef /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__seofread
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__swrite
+                0x00000000       0x38 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x24 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text.__sclose
+                0x00000000        0x8 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_info    0x00000000      0xa54 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_abbrev  0x00000000      0x221 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_loclists
+                0x00000000      0x203 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_aranges
+                0x00000000       0x40 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_rnglists
+                0x00000000       0x2b /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_line    0x00000000      0x286 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_str     0x00000000      0x54c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .text._close_r
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_info    0x00000000      0x756 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_abbrev  0x00000000      0x1b0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_loclists
+                0x00000000       0x4c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_line    0x00000000      0x1b8 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_str     0x00000000      0x4d5 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text._lseek_r
+                0x00000000       0x24 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_info    0x00000000      0x796 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_abbrev  0x00000000      0x1c4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_loclists
+                0x00000000       0x88 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_line    0x00000000      0x1b7 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_str     0x00000000      0x4e3 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_info    0x00000000      0x7ad /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_abbrev  0x00000000      0x1b0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_loclists
+                0x00000000       0x88 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_line    0x00000000      0x1b6 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_str     0x00000000      0x4e3 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .text._write_r
+                0x00000000       0x24 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_info    0x00000000      0x7b3 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_abbrev  0x00000000      0x1b5 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_loclists
+                0x00000000       0x88 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_line    0x00000000      0x1b7 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_str     0x00000000      0x4e5 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .text.__libc_fini_array
+                0x00000000       0x28 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .debug_info    0x00000000       0xf7 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .debug_abbrev  0x00000000       0xcc /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .debug_loclists
+                0x00000000       0x3b /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .debug_line    0x00000000       0xed /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .debug_str     0x00000000      0x1f6 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .debug_frame   0x00000000       0x38 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fini.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x00000000        0x1 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x00000000        0x1 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x00000000        0x1 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x00000000        0x1 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x00000000        0x1 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x00000000        0x1 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x00000000        0x1 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .text.__register_exitproc
+                0x00000000       0xb8 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .bss.__atexit0
+                0x00000000       0x8c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .data.__atexit_dummy
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .debug_info    0x00000000      0x2e7 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .debug_abbrev  0x00000000      0x1e9 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .debug_loclists
+                0x00000000       0x9e /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .debug_rnglists
+                0x00000000       0x14 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .debug_line    0x00000000      0x262 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .debug_str     0x00000000      0x322 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .debug_frame   0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__atexit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xc8 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .bss.__atexit  0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .data.__atexit_recursive_mutex
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .debug_info    0x00000000      0x290 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .debug_abbrev  0x00000000      0x1cd /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .debug_loclists
+                0x00000000       0xc4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .debug_rnglists
+                0x00000000       0x27 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .debug_line    0x00000000      0x21c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .debug_str     0x00000000      0x2db /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x48 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-__call_atexit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text.sbrk_aligned
+                0x00000000       0x44 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text._malloc_r
+                0x00000000       0xf0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text.__sflush_r
+                0x00000000      0x108 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text._fflush_r
+                0x00000000       0x50 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_info    0x00000000      0x9f2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_abbrev  0x00000000      0x2b2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_loclists
+                0x00000000      0x1dc /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_aranges
+                0x00000000       0x30 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_rnglists
+                0x00000000       0x3e /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_line    0x00000000      0x431 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_str     0x00000000      0x5aa /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_info    0x00000000      0x77c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_abbrev  0x00000000      0x1da /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_loclists
+                0x00000000       0x4c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_aranges
+                0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_line    0x00000000      0x1b8 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_str     0x00000000      0x4e8 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .comment       0x00000000       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .data          0x00000000        0x0 CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .bss.defaultTaskHandle
+                0x00000000        0x4 CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .rodata        0x00000000        0xc CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .rodata.defaultTask_attributes
+                0x00000000       0x24 CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .text.StartDefaultTask
+                0x00000000       0x10 CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x00000000       0x24 CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .text          0x00000000       0x14 CMakeFiles/canzero-app-boot.dir/startup.s.obj
+ .data          0x00000000        0x0 CMakeFiles/canzero-app-boot.dir/startup.s.obj
+ .bss           0x00000000        0x0 CMakeFiles/canzero-app-boot.dir/startup.s.obj
+ .text          0x00000000        0x0 libcanzero-app.a(main.c.obj)
+ .data          0x00000000        0x0 libcanzero-app.a(main.c.obj)
+ .bss           0x00000000        0x0 libcanzero-app.a(main.c.obj)
+ .text.main     0x00000000       0x10 libcanzero-app.a(main.c.obj)
+ .comment       0x00000000       0x1f libcanzero-app.a(main.c.obj)
+ .ARM.attributes
+                0x00000000       0x34 libcanzero-app.a(main.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(system_stm32f4xx.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(system_stm32f4xx.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(system_stm32f4xx.c.obj)
+ .rodata.APBPrescTable
+                0x00000000        0x8 libcubemx.a(system_stm32f4xx.c.obj)
+ .text.SystemCoreClockUpdate
+                0x00000000      0x100 libcubemx.a(system_stm32f4xx.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(stm32f4xx_hal.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(stm32f4xx_hal.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_DeInit
+                0x00000000       0x58 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_MspDeInit
+                0x00000000        0xe libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_IncTick
+                0x00000000       0x28 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_GetTickPrio
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_SetTickFreq
+                0x00000000       0x50 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_GetTickFreq
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_Delay
+                0x00000000       0x48 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_SuspendTick
+                0x00000000       0x20 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_ResumeTick
+                0x00000000       0x20 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_GetHalVersion
+                0x00000000       0x14 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_GetREVID
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_GetDEVID
+                0x00000000       0x1c libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x20 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x20 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x20 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x20 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x20 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x20 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_EnableCompensationCell
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_DisableCompensationCell
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_GetUIDw0
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_GetUIDw1
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text.HAL_GetUIDw2
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.__NVIC_EnableIRQ
+                0x00000000       0x3c libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.__NVIC_DisableIRQ
+                0x00000000       0x48 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.__NVIC_GetPendingIRQ
+                0x00000000       0x44 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.__NVIC_SetPendingIRQ
+                0x00000000       0x3c libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.__NVIC_ClearPendingIRQ
+                0x00000000       0x3c libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.__NVIC_GetActive
+                0x00000000       0x44 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.__NVIC_GetPriority
+                0x00000000       0x50 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.NVIC_DecodePriority
+                0x00000000       0x6e libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.__NVIC_SystemReset
+                0x00000000       0x2c libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x1c libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x1c libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_NVIC_SystemReset
+                0x00000000        0x8 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_MPU_Disable
+                0x00000000       0x30 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_MPU_Enable
+                0x00000000       0x40 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_MPU_ConfigRegion
+                0x00000000       0x88 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x00000000        0xe libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x2c libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x1c libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x1e libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x1c libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_NVIC_GetActive
+                0x00000000       0x1e libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x38 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0xc libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0xe libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_DeInit
+                0x00000000       0x10 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_MCOConfig
+                0x00000000       0xd0 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_DisableCSS
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_GetHCLKFreq
+                0x00000000       0x18 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x28 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x28 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x128 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x64 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x28 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0xe libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(cmsis_os2.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(cmsis_os2.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(cmsis_os2.c.obj)
+ .rodata        0x00000000       0x11 libcubemx.a(cmsis_os2.c.obj)
+ .text.osKernelGetInfo
+                0x00000000       0x50 libcubemx.a(cmsis_os2.c.obj)
+ .text.osKernelGetState
+                0x00000000       0x44 libcubemx.a(cmsis_os2.c.obj)
+ .text.osKernelLock
+                0x00000000       0x4c libcubemx.a(cmsis_os2.c.obj)
+ .text.osKernelUnlock
+                0x00000000       0x64 libcubemx.a(cmsis_os2.c.obj)
+ .text.osKernelRestoreLock
+                0x00000000       0x74 libcubemx.a(cmsis_os2.c.obj)
+ .text.osKernelGetTickCount
+                0x00000000       0x2a libcubemx.a(cmsis_os2.c.obj)
+ .text.osKernelGetTickFreq
+                0x00000000       0x12 libcubemx.a(cmsis_os2.c.obj)
+ .text.OS_Tick_GetCount
+                0x00000000       0x24 libcubemx.a(cmsis_os2.c.obj)
+ .text.OS_Tick_GetOverflow
+                0x00000000       0x1c libcubemx.a(cmsis_os2.c.obj)
+ .text.OS_Tick_GetInterval
+                0x00000000       0x18 libcubemx.a(cmsis_os2.c.obj)
+ .text.osKernelGetSysTimerCount
+                0x00000000       0x72 libcubemx.a(cmsis_os2.c.obj)
+ .text.osKernelGetSysTimerFreq
+                0x00000000       0x18 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadNew
+                0x00000000      0x124 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadGetName
+                0x00000000       0x36 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadGetId
+                0x00000000       0x16 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadGetState
+                0x00000000       0x78 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadGetStackSpace
+                0x00000000       0x3a libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadSetPriority
+                0x00000000       0x54 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadGetPriority
+                0x00000000       0x3a libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadYield
+                0x00000000       0x40 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadSuspend
+                0x00000000       0x42 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadResume
+                0x00000000       0x42 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadExit
+                0x00000000        0xe libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadTerminate
+                0x00000000       0x5a libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadGetCount
+                0x00000000       0x28 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadEnumerate
+                0x00000000       0xa6 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadFlagsSet
+                0x00000000       0x9c libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadFlagsClear
+                0x00000000       0x7c libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadFlagsGet
+                0x00000000       0x42 libcubemx.a(cmsis_os2.c.obj)
+ .text.osThreadFlagsWait
+                0x00000000      0x102 libcubemx.a(cmsis_os2.c.obj)
+ .text.osDelay  0x00000000       0x36 libcubemx.a(cmsis_os2.c.obj)
+ .text.osDelayUntil
+                0x00000000       0x5a libcubemx.a(cmsis_os2.c.obj)
+ .text.TimerCallback
+                0x00000000       0x2a libcubemx.a(cmsis_os2.c.obj)
+ .text.osTimerNew
+                0x00000000       0xf8 libcubemx.a(cmsis_os2.c.obj)
+ .text.osTimerGetName
+                0x00000000       0x36 libcubemx.a(cmsis_os2.c.obj)
+ .text.osTimerStart
+                0x00000000       0x5c libcubemx.a(cmsis_os2.c.obj)
+ .text.osTimerStop
+                0x00000000       0x6e libcubemx.a(cmsis_os2.c.obj)
+ .text.osTimerIsRunning
+                0x00000000       0x38 libcubemx.a(cmsis_os2.c.obj)
+ .text.osTimerDelete
+                0x00000000       0x68 libcubemx.a(cmsis_os2.c.obj)
+ .text.osEventFlagsNew
+                0x00000000       0x7e libcubemx.a(cmsis_os2.c.obj)
+ .text.osEventFlagsSet
+                0x00000000       0x84 libcubemx.a(cmsis_os2.c.obj)
+ .text.osEventFlagsClear
+                0x00000000       0x62 libcubemx.a(cmsis_os2.c.obj)
+ .text.osEventFlagsGet
+                0x00000000       0x42 libcubemx.a(cmsis_os2.c.obj)
+ .text.osEventFlagsWait
+                0x00000000       0xca libcubemx.a(cmsis_os2.c.obj)
+ .text.osEventFlagsDelete
+                0x00000000       0x42 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMutexNew
+                0x00000000      0x10c libcubemx.a(cmsis_os2.c.obj)
+ .text.osMutexAcquire
+                0x00000000       0x96 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMutexRelease
+                0x00000000       0x7a libcubemx.a(cmsis_os2.c.obj)
+ .text.osMutexGetOwner
+                0x00000000       0x3a libcubemx.a(cmsis_os2.c.obj)
+ .text.osMutexDelete
+                0x00000000       0x4c libcubemx.a(cmsis_os2.c.obj)
+ .text.osSemaphoreNew
+                0x00000000      0x112 libcubemx.a(cmsis_os2.c.obj)
+ .text.osSemaphoreAcquire
+                0x00000000       0xa4 libcubemx.a(cmsis_os2.c.obj)
+ .text.osSemaphoreRelease
+                0x00000000       0x88 libcubemx.a(cmsis_os2.c.obj)
+ .text.osSemaphoreGetCount
+                0x00000000       0x40 libcubemx.a(cmsis_os2.c.obj)
+ .text.osSemaphoreDelete
+                0x00000000       0x48 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMessageQueueNew
+                0x00000000       0xe6 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMessageQueuePut
+                0x00000000       0xc0 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMessageQueueGet
+                0x00000000       0xbc libcubemx.a(cmsis_os2.c.obj)
+ .text.osMessageQueueGetCapacity
+                0x00000000       0x2c libcubemx.a(cmsis_os2.c.obj)
+ .text.osMessageQueueGetMsgSize
+                0x00000000       0x2c libcubemx.a(cmsis_os2.c.obj)
+ .text.osMessageQueueGetCount
+                0x00000000       0x40 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMessageQueueGetSpace
+                0x00000000       0x6a libcubemx.a(cmsis_os2.c.obj)
+ .text.osMessageQueueReset
+                0x00000000       0x44 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMessageQueueDelete
+                0x00000000       0x48 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMemoryPoolNew
+                0x00000000      0x1ac libcubemx.a(cmsis_os2.c.obj)
+ .text.osMemoryPoolGetName
+                0x00000000       0x3e libcubemx.a(cmsis_os2.c.obj)
+ .text.osMemoryPoolAlloc
+                0x00000000       0xec libcubemx.a(cmsis_os2.c.obj)
+ .text.osMemoryPoolFree
+                0x00000000      0x130 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMemoryPoolGetCapacity
+                0x00000000       0x44 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMemoryPoolGetBlockSize
+                0x00000000       0x44 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMemoryPoolGetCount
+                0x00000000       0x6c libcubemx.a(cmsis_os2.c.obj)
+ .text.osMemoryPoolGetSpace
+                0x00000000       0x60 libcubemx.a(cmsis_os2.c.obj)
+ .text.osMemoryPoolDelete
+                0x00000000       0xa0 libcubemx.a(cmsis_os2.c.obj)
+ .text.CreateBlock
+                0x00000000       0x44 libcubemx.a(cmsis_os2.c.obj)
+ .text.AllocBlock
+                0x00000000       0x30 libcubemx.a(cmsis_os2.c.obj)
+ .text.FreeBlock
+                0x00000000       0x28 libcubemx.a(cmsis_os2.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(heap_4.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(heap_4.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(heap_4.c.obj)
+ .bss.ucHeap    0x00000000     0x3c00 libcubemx.a(heap_4.c.obj)
+ .rodata.xHeapStructSize
+                0x00000000        0x4 libcubemx.a(heap_4.c.obj)
+ .bss.xMinimumEverFreeBytesRemaining
+                0x00000000        0x4 libcubemx.a(heap_4.c.obj)
+ .bss.xNumberOfSuccessfulAllocations
+                0x00000000        0x4 libcubemx.a(heap_4.c.obj)
+ .text.pvPortMalloc
+                0x00000000      0x19c libcubemx.a(heap_4.c.obj)
+ .text.xPortGetFreeHeapSize
+                0x00000000       0x18 libcubemx.a(heap_4.c.obj)
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x00000000       0x18 libcubemx.a(heap_4.c.obj)
+ .text.vPortInitialiseBlocks
+                0x00000000        0xe libcubemx.a(heap_4.c.obj)
+ .text.prvHeapInit
+                0x00000000       0xc4 libcubemx.a(heap_4.c.obj)
+ .text.vPortGetHeapStats
+                0x00000000       0xbc libcubemx.a(heap_4.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(port.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(port.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(port.c.obj)
+ .rodata.pcInterruptPriorityRegisters
+                0x00000000        0x4 libcubemx.a(port.c.obj)
+ .text.vPortEndScheduler
+                0x00000000       0x38 libcubemx.a(port.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .text.HAL_GPIO_Init
+                0x00000000      0x338 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x1f8 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .text.HAL_GPIO_ReadPin
+                0x00000000       0x30 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .text.HAL_GPIO_WritePin
+                0x00000000       0x32 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .text.HAL_GPIO_TogglePin
+                0x00000000       0x34 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x50 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x30 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000       0x16 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .comment       0x00000000       0x1f libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .ARM.attributes
+                0x00000000       0x34 libcubemx.a(stm32f4xx_hal_gpio.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(event_groups.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(event_groups.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(event_groups.c.obj)
+ .text.xEventGroupCreateStatic
+                0x00000000       0x72 libcubemx.a(event_groups.c.obj)
+ .text.xEventGroupCreate
+                0x00000000       0x34 libcubemx.a(event_groups.c.obj)
+ .text.xEventGroupSync
+                0x00000000      0x160 libcubemx.a(event_groups.c.obj)
+ .text.xEventGroupWaitBits
+                0x00000000      0x1a4 libcubemx.a(event_groups.c.obj)
+ .text.xEventGroupClearBits
+                0x00000000       0x72 libcubemx.a(event_groups.c.obj)
+ .text.xEventGroupClearBitsFromISR
+                0x00000000       0x28 libcubemx.a(event_groups.c.obj)
+ .text.xEventGroupGetBitsFromISR
+                0x00000000       0x48 libcubemx.a(event_groups.c.obj)
+ .text.xEventGroupSetBits
+                0x00000000      0x118 libcubemx.a(event_groups.c.obj)
+ .text.vEventGroupDelete
+                0x00000000       0x6c libcubemx.a(event_groups.c.obj)
+ .text.vEventGroupSetBitsCallback
+                0x00000000       0x1a libcubemx.a(event_groups.c.obj)
+ .text.vEventGroupClearBitsCallback
+                0x00000000       0x1a libcubemx.a(event_groups.c.obj)
+ .text.prvTestWaitCondition
+                0x00000000       0x44 libcubemx.a(event_groups.c.obj)
+ .text.xEventGroupSetBitsFromISR
+                0x00000000       0x28 libcubemx.a(event_groups.c.obj)
+ .text.uxEventGroupGetNumber
+                0x00000000       0x2c libcubemx.a(event_groups.c.obj)
+ .text.vEventGroupSetNumber
+                0x00000000       0x1c libcubemx.a(event_groups.c.obj)
+ .comment       0x00000000       0x1f libcubemx.a(event_groups.c.obj)
+ .ARM.attributes
+                0x00000000       0x34 libcubemx.a(event_groups.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(list.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(list.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(list.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(queue.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(queue.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(queue.c.obj)
+ .text.xQueueGenericCreate
+                0x00000000       0x76 libcubemx.a(queue.c.obj)
+ .text.prvInitialiseMutex
+                0x00000000       0x34 libcubemx.a(queue.c.obj)
+ .text.xQueueCreateMutex
+                0x00000000       0x30 libcubemx.a(queue.c.obj)
+ .text.xQueueCreateMutexStatic
+                0x00000000       0x36 libcubemx.a(queue.c.obj)
+ .text.xQueueGetMutexHolder
+                0x00000000       0x32 libcubemx.a(queue.c.obj)
+ .text.xQueueGetMutexHolderFromISR
+                0x00000000       0x48 libcubemx.a(queue.c.obj)
+ .text.xQueueGiveMutexRecursive
+                0x00000000       0x6a libcubemx.a(queue.c.obj)
+ .text.xQueueTakeMutexRecursive
+                0x00000000       0x6e libcubemx.a(queue.c.obj)
+ .text.xQueueCreateCountingSemaphoreStatic
+                0x00000000       0x72 libcubemx.a(queue.c.obj)
+ .text.xQueueCreateCountingSemaphore
+                0x00000000       0x6a libcubemx.a(queue.c.obj)
+ .text.xQueueGiveFromISR
+                0x00000000      0x120 libcubemx.a(queue.c.obj)
+ .text.xQueueSemaphoreTake
+                0x00000000      0x220 libcubemx.a(queue.c.obj)
+ .text.xQueuePeek
+                0x00000000      0x1c8 libcubemx.a(queue.c.obj)
+ .text.xQueueReceiveFromISR
+                0x00000000      0x104 libcubemx.a(queue.c.obj)
+ .text.xQueuePeekFromISR
+                0x00000000       0xd8 libcubemx.a(queue.c.obj)
+ .text.uxQueueMessagesWaiting
+                0x00000000       0x3e libcubemx.a(queue.c.obj)
+ .text.uxQueueSpacesAvailable
+                0x00000000       0x48 libcubemx.a(queue.c.obj)
+ .text.uxQueueMessagesWaitingFromISR
+                0x00000000       0x3e libcubemx.a(queue.c.obj)
+ .text.vQueueDelete
+                0x00000000       0x48 libcubemx.a(queue.c.obj)
+ .text.uxQueueGetQueueNumber
+                0x00000000       0x18 libcubemx.a(queue.c.obj)
+ .text.vQueueSetQueueNumber
+                0x00000000       0x1c libcubemx.a(queue.c.obj)
+ .text.ucQueueGetQueueType
+                0x00000000       0x1a libcubemx.a(queue.c.obj)
+ .text.prvGetDisinheritPriorityAfterTimeout
+                0x00000000       0x30 libcubemx.a(queue.c.obj)
+ .text.xQueueIsQueueEmptyFromISR
+                0x00000000       0x4a libcubemx.a(queue.c.obj)
+ .text.xQueueIsQueueFullFromISR
+                0x00000000       0x4e libcubemx.a(queue.c.obj)
+ .text.pcQueueGetName
+                0x00000000       0x4c libcubemx.a(queue.c.obj)
+ .text.vQueueUnregisterQueue
+                0x00000000       0x54 libcubemx.a(queue.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(tasks.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(tasks.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(tasks.c.obj)
+ .text.xTaskCreate
+                0x00000000       0x8a libcubemx.a(tasks.c.obj)
+ .text.vTaskDelete
+                0x00000000       0xe8 libcubemx.a(tasks.c.obj)
+ .text.vTaskDelayUntil
+                0x00000000      0x100 libcubemx.a(tasks.c.obj)
+ .text.vTaskDelay
+                0x00000000       0x6c libcubemx.a(tasks.c.obj)
+ .text.eTaskGetState
+                0x00000000       0xd0 libcubemx.a(tasks.c.obj)
+ .text.uxTaskPriorityGet
+                0x00000000       0x34 libcubemx.a(tasks.c.obj)
+ .text.uxTaskPriorityGetFromISR
+                0x00000000       0x58 libcubemx.a(tasks.c.obj)
+ .text.vTaskPrioritySet
+                0x00000000      0x13c libcubemx.a(tasks.c.obj)
+ .text.vTaskSuspend
+                0x00000000       0xec libcubemx.a(tasks.c.obj)
+ .text.prvTaskIsTaskSuspended
+                0x00000000       0x64 libcubemx.a(tasks.c.obj)
+ .text.vTaskResume
+                0x00000000       0xc0 libcubemx.a(tasks.c.obj)
+ .text.xTaskResumeFromISR
+                0x00000000       0xe8 libcubemx.a(tasks.c.obj)
+ .text.vTaskEndScheduler
+                0x00000000       0x30 libcubemx.a(tasks.c.obj)
+ .text.xTaskGetTickCountFromISR
+                0x00000000       0x24 libcubemx.a(tasks.c.obj)
+ .text.uxTaskGetNumberOfTasks
+                0x00000000       0x18 libcubemx.a(tasks.c.obj)
+ .text.pcTaskGetName
+                0x00000000       0x4c libcubemx.a(tasks.c.obj)
+ .text.uxTaskGetSystemState
+                0x00000000      0x11c libcubemx.a(tasks.c.obj)
+ .text.xTaskCatchUpTicks
+                0x00000000       0x54 libcubemx.a(tasks.c.obj)
+ .text.vTaskPlaceOnUnorderedEventList
+                0x00000000       0x7c libcubemx.a(tasks.c.obj)
+ .text.vTaskRemoveFromUnorderedEventList
+                0x00000000       0xc8 libcubemx.a(tasks.c.obj)
+ .text.vTaskSetTimeOutState
+                0x00000000       0x50 libcubemx.a(tasks.c.obj)
+ .text.uxTaskGetTaskNumber
+                0x00000000       0x2c libcubemx.a(tasks.c.obj)
+ .text.vTaskSetTaskNumber
+                0x00000000       0x26 libcubemx.a(tasks.c.obj)
+ .text.vTaskGetInfo
+                0x00000000       0xcc libcubemx.a(tasks.c.obj)
+ .text.prvListTasksWithinSingleList
+                0x00000000       0xa4 libcubemx.a(tasks.c.obj)
+ .text.prvTaskCheckFreeStackSpace
+                0x00000000       0x38 libcubemx.a(tasks.c.obj)
+ .text.uxTaskGetStackHighWaterMark
+                0x00000000       0x38 libcubemx.a(tasks.c.obj)
+ .text.xTaskGetCurrentTaskHandle
+                0x00000000       0x20 libcubemx.a(tasks.c.obj)
+ .text.xTaskPriorityInherit
+                0x00000000       0xd0 libcubemx.a(tasks.c.obj)
+ .text.vTaskPriorityDisinheritAfterTimeout
+                0x00000000      0x108 libcubemx.a(tasks.c.obj)
+ .text.uxTaskResetEventItemValue
+                0x00000000       0x30 libcubemx.a(tasks.c.obj)
+ .text.pvTaskIncrementMutexHeldCount
+                0x00000000       0x28 libcubemx.a(tasks.c.obj)
+ .text.ulTaskNotifyTake
+                0x00000000       0x98 libcubemx.a(tasks.c.obj)
+ .text.xTaskNotifyWait
+                0x00000000       0xc0 libcubemx.a(tasks.c.obj)
+ .text.xTaskGenericNotify
+                0x00000000      0x184 libcubemx.a(tasks.c.obj)
+ .text.xTaskGenericNotifyFromISR
+                0x00000000      0x1cc libcubemx.a(tasks.c.obj)
+ .text.vTaskNotifyGiveFromISR
+                0x00000000      0x12c libcubemx.a(tasks.c.obj)
+ .text.xTaskNotifyStateClear
+                0x00000000       0x4c libcubemx.a(tasks.c.obj)
+ .text.ulTaskNotifyValueClear
+                0x00000000       0x4c libcubemx.a(tasks.c.obj)
+ .text          0x00000000        0x0 libcubemx.a(timers.c.obj)
+ .data          0x00000000        0x0 libcubemx.a(timers.c.obj)
+ .bss           0x00000000        0x0 libcubemx.a(timers.c.obj)
+ .text.xTimerCreate
+                0x00000000       0x42 libcubemx.a(timers.c.obj)
+ .text.xTimerCreateStatic
+                0x00000000       0x80 libcubemx.a(timers.c.obj)
+ .text.prvInitialiseNewTimer
+                0x00000000       0x78 libcubemx.a(timers.c.obj)
+ .text.xTimerGetTimerDaemonTaskHandle
+                0x00000000       0x3c libcubemx.a(timers.c.obj)
+ .text.xTimerGetPeriod
+                0x00000000       0x3a libcubemx.a(timers.c.obj)
+ .text.vTimerSetReloadMode
+                0x00000000       0x68 libcubemx.a(timers.c.obj)
+ .text.uxTimerGetReloadMode
+                0x00000000       0x54 libcubemx.a(timers.c.obj)
+ .text.xTimerGetExpiryTime
+                0x00000000       0x3e libcubemx.a(timers.c.obj)
+ .text.pcTimerGetName
+                0x00000000       0x3a libcubemx.a(timers.c.obj)
+ .text.xTimerIsTimerActive
+                0x00000000       0x54 libcubemx.a(timers.c.obj)
+ .text.pvTimerGetTimerID
+                0x00000000       0x42 libcubemx.a(timers.c.obj)
+ .text.vTimerSetTimerID
+                0x00000000       0x42 libcubemx.a(timers.c.obj)
+ .text.xTimerPendFunctionCallFromISR
+                0x00000000       0x40 libcubemx.a(timers.c.obj)
+ .text.xTimerPendFunctionCall
+                0x00000000       0x60 libcubemx.a(timers.c.obj)
+ .text.uxTimerGetTimerNumber
+                0x00000000       0x18 libcubemx.a(timers.c.obj)
+ .text.vTimerSetTimerNumber
+                0x00000000       0x1c libcubemx.a(timers.c.obj)
+ .text          0x00000000        0x0 _deps/canzero-kernel-build/libcanzero-kernel.a(lib.c.obj)
+ .data          0x00000000        0x0 _deps/canzero-kernel-build/libcanzero-kernel.a(lib.c.obj)
+ .bss           0x00000000        0x0 _deps/canzero-kernel-build/libcanzero-kernel.a(lib.c.obj)
+ .text.add      0x00000000       0x1c _deps/canzero-kernel-build/libcanzero-kernel.a(lib.c.obj)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.extab.text.__udivmoddi4
+                0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .text._close   0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .gnu.warning._close
+                0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .debug_loclists
+                0x00000000       0x23 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .debug_frame   0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(close.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .text._lseek   0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .gnu.warning._lseek
+                0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .debug_loclists
+                0x00000000       0x3a /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .debug_frame   0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(lseek.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .text._read    0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .gnu.warning._read
+                0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .debug_loclists
+                0x00000000       0x3a /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .debug_frame   0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(read.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .text._sbrk    0x00000000       0x1c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .debug_loclists
+                0x00000000       0x32 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .debug_frame   0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .text._write   0x00000000       0x10 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .gnu.warning._write
+                0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .debug_loclists
+                0x00000000       0x3a /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .debug_frame   0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text._exit    0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_loclists
+                0x00000000       0x17 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_rnglists
+                0x00000000       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_frame   0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtend.o
+ .rodata.all_implied_fbits
+                0x00000000       0x24 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x00000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x00000000       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x00000000        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00020000         xrw
+CCMRAM           0x10000000         0x00010000         xrw
+FLASH            0x08000000         0x00100000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libstdc++_nano.a
+END GROUP
+LOAD CMakeFiles/canzero-app-boot.dir/entry.c.obj
+LOAD CMakeFiles/canzero-app-boot.dir/startup.s.obj
+LOAD libcanzero-app.a
+LOAD libcubemx.a
+LOAD _deps/canzero-kernel-build/libcanzero-kernel.a
+LOAD libcubemx.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtn.o
+                0x20020000                        _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x00000200                        _Min_Heap_Size = 0x200
+                0x00000400                        _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                        . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 CMakeFiles/canzero-app-boot.dir/startup.s.obj
+                0x08000000                g_pfnVectors
+                0x08000188                        . = ALIGN (0x4)
+
+.text           0x08000190     0x38ac
+                0x08000190                        . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000190       0x30 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                0x08000190                __aeabi_uldivmod
+ .text          0x080001c0        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                0x080001c0                __aeabi_ldiv0
+                0x080001c0                __aeabi_idiv0
+ *(.text*)
+ .text.__do_global_dtors_aux
+                0x080001c4       0x24 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.frame_dummy
+                0x080001e8       0x1c /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .text.memset   0x08000204       0x10 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+                0x08000204                memset
+ .text._reclaim_reent
+                0x08000214       0xac /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+                0x08000214                _reclaim_reent
+ .text.__libc_init_array
+                0x080002c0       0x48 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+                0x080002c0                __libc_init_array
+ .text.__retarget_lock_acquire_recursive
+                0x08000308        0x2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x08000308                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0800030a        0x2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x0800030a                __retarget_lock_release_recursive
+ .text._free_r  0x0800030c       0x94 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+                0x0800030c                _free_r
+ .text.__malloc_lock
+                0x080003a0        0xc /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                0x080003a0                __malloc_lock
+ .text.__malloc_unlock
+                0x080003ac        0xc /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+                0x080003ac                __malloc_unlock
+ .text.entry    0x080003b8       0x20 CMakeFiles/canzero-app-boot.dir/entry.c.obj
+                0x080003b8                entry
+ .text.SystemClock_Config
+                0x080003d8       0xbc CMakeFiles/canzero-app-boot.dir/entry.c.obj
+                0x080003d8                SystemClock_Config
+ .text.MX_GPIO_Init
+                0x08000494       0x34 CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .text.Error_Handler
+                0x080004c8        0xc CMakeFiles/canzero-app-boot.dir/entry.c.obj
+                0x080004c8                Error_Handler
+ .text.Reset_Handler
+                0x080004d4       0x50 CMakeFiles/canzero-app-boot.dir/startup.s.obj
+                0x080004d4                Reset_Handler
+ .text.Default_Handler
+                0x08000524        0x2 CMakeFiles/canzero-app-boot.dir/startup.s.obj
+                0x08000524                RTC_Alarm_IRQHandler
+                0x08000524                HASH_RNG_IRQHandler
+                0x08000524                EXTI2_IRQHandler
+                0x08000524                TIM8_CC_IRQHandler
+                0x08000524                DebugMon_Handler
+                0x08000524                TIM1_CC_IRQHandler
+                0x08000524                DMA2_Stream5_IRQHandler
+                0x08000524                HardFault_Handler
+                0x08000524                DMA1_Stream5_IRQHandler
+                0x08000524                PVD_IRQHandler
+                0x08000524                SDIO_IRQHandler
+                0x08000524                TAMP_STAMP_IRQHandler
+                0x08000524                NMI_Handler
+                0x08000524                CAN2_RX1_IRQHandler
+                0x08000524                EXTI3_IRQHandler
+                0x08000524                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08000524                TIM1_UP_TIM10_IRQHandler
+                0x08000524                TIM8_UP_TIM13_IRQHandler
+                0x08000524                I2C3_ER_IRQHandler
+                0x08000524                EXTI0_IRQHandler
+                0x08000524                I2C2_EV_IRQHandler
+                0x08000524                DMA1_Stream2_IRQHandler
+                0x08000524                CAN1_RX0_IRQHandler
+                0x08000524                FPU_IRQHandler
+                0x08000524                OTG_HS_WKUP_IRQHandler
+                0x08000524                UsageFault_Handler
+                0x08000524                CAN2_SCE_IRQHandler
+                0x08000524                DMA2_Stream2_IRQHandler
+                0x08000524                SPI1_IRQHandler
+                0x08000524                TIM6_DAC_IRQHandler
+                0x08000524                TIM1_BRK_TIM9_IRQHandler
+                0x08000524                DCMI_IRQHandler
+                0x08000524                CAN2_RX0_IRQHandler
+                0x08000524                DMA2_Stream3_IRQHandler
+                0x08000524                USART6_IRQHandler
+                0x08000524                USART3_IRQHandler
+                0x08000524                CAN1_RX1_IRQHandler
+                0x08000524                UART5_IRQHandler
+                0x08000524                DMA2_Stream0_IRQHandler
+                0x08000524                TIM4_IRQHandler
+                0x08000524                I2C1_EV_IRQHandler
+                0x08000524                DMA1_Stream6_IRQHandler
+                0x08000524                DMA1_Stream1_IRQHandler
+                0x08000524                UART4_IRQHandler
+                0x08000524                TIM3_IRQHandler
+                0x08000524                RCC_IRQHandler
+                0x08000524                TIM8_BRK_TIM12_IRQHandler
+                0x08000524                Default_Handler
+                0x08000524                EXTI15_10_IRQHandler
+                0x08000524                ADC_IRQHandler
+                0x08000524                DMA1_Stream7_IRQHandler
+                0x08000524                TIM7_IRQHandler
+                0x08000524                CAN2_TX_IRQHandler
+                0x08000524                TIM5_IRQHandler
+                0x08000524                DMA2_Stream7_IRQHandler
+                0x08000524                I2C3_EV_IRQHandler
+                0x08000524                EXTI9_5_IRQHandler
+                0x08000524                RTC_WKUP_IRQHandler
+                0x08000524                ETH_WKUP_IRQHandler
+                0x08000524                SPI2_IRQHandler
+                0x08000524                OTG_HS_EP1_IN_IRQHandler
+                0x08000524                MemManage_Handler
+                0x08000524                DMA1_Stream0_IRQHandler
+                0x08000524                CAN1_TX_IRQHandler
+                0x08000524                EXTI4_IRQHandler
+                0x08000524                FSMC_IRQHandler
+                0x08000524                ETH_IRQHandler
+                0x08000524                OTG_HS_EP1_OUT_IRQHandler
+                0x08000524                WWDG_IRQHandler
+                0x08000524                TIM2_IRQHandler
+                0x08000524                OTG_FS_WKUP_IRQHandler
+                0x08000524                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08000524                OTG_HS_IRQHandler
+                0x08000524                EXTI1_IRQHandler
+                0x08000524                USART2_IRQHandler
+                0x08000524                I2C2_ER_IRQHandler
+                0x08000524                DMA2_Stream1_IRQHandler
+                0x08000524                CAN1_SCE_IRQHandler
+                0x08000524                FLASH_IRQHandler
+                0x08000524                DMA2_Stream4_IRQHandler
+                0x08000524                BusFault_Handler
+                0x08000524                USART1_IRQHandler
+                0x08000524                OTG_FS_IRQHandler
+                0x08000524                SPI3_IRQHandler
+                0x08000524                DMA1_Stream4_IRQHandler
+                0x08000524                I2C1_ER_IRQHandler
+                0x08000524                DMA2_Stream6_IRQHandler
+                0x08000524                DMA1_Stream3_IRQHandler
+ *fill*         0x08000526        0x2 
+ .text.SystemInit
+                0x08000528       0x24 libcubemx.a(system_stm32f4xx.c.obj)
+                0x08000528                SystemInit
+ .text.HAL_Init
+                0x0800054c       0x44 libcubemx.a(stm32f4xx_hal.c.obj)
+                0x0800054c                HAL_Init
+ .text.HAL_MspInit
+                0x08000590        0xe libcubemx.a(stm32f4xx_hal.c.obj)
+                0x08000590                HAL_MspInit
+ *fill*         0x0800059e        0x2 
+ .text.HAL_InitTick
+                0x080005a0       0x60 libcubemx.a(stm32f4xx_hal.c.obj)
+                0x080005a0                HAL_InitTick
+ .text.HAL_GetTick
+                0x08000600       0x18 libcubemx.a(stm32f4xx_hal.c.obj)
+                0x08000600                HAL_GetTick
+ .text.__NVIC_SetPriorityGrouping
+                0x08000618       0x48 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.__NVIC_GetPriorityGrouping
+                0x08000660       0x1c libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.__NVIC_SetPriority
+                0x0800067c       0x54 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.NVIC_EncodePriority
+                0x080006d0       0x66 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ *fill*         0x08000736        0x2 
+ .text.SysTick_Config
+                0x08000738       0x44 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x0800077c       0x16 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+                0x0800077c                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x08000792       0x38 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+                0x08000792                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x080007ca       0x18 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+                0x080007ca                HAL_SYSTICK_Config
+ *fill*         0x080007e2        0x2 
+ .text.HAL_RCC_OscConfig
+                0x080007e4      0x4f0 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+                0x080007e4                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x08000cd4      0x1cc libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+                0x08000cd4                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x08000ea0      0x18c libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+                0x08000ea0                HAL_RCC_GetSysClockFreq
+ .text.__NVIC_SetPriority
+                0x0800102c       0x54 libcubemx.a(cmsis_os2.c.obj)
+ .text.SysTick_Handler
+                0x08001080       0x20 libcubemx.a(cmsis_os2.c.obj)
+                0x08001080                SysTick_Handler
+ .text.SVC_Setup
+                0x080010a0       0x12 libcubemx.a(cmsis_os2.c.obj)
+ *fill*         0x080010b2        0x2 
+ .text.osKernelInitialize
+                0x080010b4       0x48 libcubemx.a(cmsis_os2.c.obj)
+                0x080010b4                osKernelInitialize
+ .text.osKernelStart
+                0x080010fc       0x4c libcubemx.a(cmsis_os2.c.obj)
+                0x080010fc                osKernelStart
+ .text.vApplicationGetIdleTaskMemory
+                0x08001148       0x34 libcubemx.a(cmsis_os2.c.obj)
+                0x08001148                vApplicationGetIdleTaskMemory
+ .text.vApplicationGetTimerTaskMemory
+                0x0800117c       0x34 libcubemx.a(cmsis_os2.c.obj)
+                0x0800117c                vApplicationGetTimerTaskMemory
+ .text.vPortFree
+                0x080011b0       0xc8 libcubemx.a(heap_4.c.obj)
+                0x080011b0                vPortFree
+ .text.prvInsertBlockIntoFreeList
+                0x08001278       0xb4 libcubemx.a(heap_4.c.obj)
+ .text.pxPortInitialiseStack
+                0x0800132c       0x68 libcubemx.a(port.c.obj)
+                0x0800132c                pxPortInitialiseStack
+ .text.prvTaskExitError
+                0x08001394       0x5c libcubemx.a(port.c.obj)
+ .text.SVC_Handler
+                0x080013f0       0x28 libcubemx.a(port.c.obj)
+                0x080013f0                SVC_Handler
+ .text.prvPortStartFirstTask
+                0x08001418       0x28 libcubemx.a(port.c.obj)
+ .text.xPortStartScheduler
+                0x08001440      0x148 libcubemx.a(port.c.obj)
+                0x08001440                xPortStartScheduler
+ .text.vPortEnterCritical
+                0x08001588       0x64 libcubemx.a(port.c.obj)
+                0x08001588                vPortEnterCritical
+ .text.vPortExitCritical
+                0x080015ec       0x54 libcubemx.a(port.c.obj)
+                0x080015ec                vPortExitCritical
+ .text.PendSV_Handler
+                0x08001640       0x68 libcubemx.a(port.c.obj)
+                0x08001640                PendSV_Handler
+ .text.xPortSysTickHandler
+                0x080016a8       0x44 libcubemx.a(port.c.obj)
+                0x080016a8                xPortSysTickHandler
+ .text.vPortSetupTimerInterrupt
+                0x080016ec       0x48 libcubemx.a(port.c.obj)
+                0x080016ec                vPortSetupTimerInterrupt
+ .text.vPortEnableVFP
+                0x08001734       0x14 libcubemx.a(port.c.obj)
+ .text.vPortValidateInterruptPriority
+                0x08001748       0x84 libcubemx.a(port.c.obj)
+                0x08001748                vPortValidateInterruptPriority
+ .text.vListInitialise
+                0x080017cc       0x40 libcubemx.a(list.c.obj)
+                0x080017cc                vListInitialise
+ .text.vListInitialiseItem
+                0x0800180c       0x1a libcubemx.a(list.c.obj)
+                0x0800180c                vListInitialiseItem
+ .text.vListInsertEnd
+                0x08001826       0x48 libcubemx.a(list.c.obj)
+                0x08001826                vListInsertEnd
+ .text.vListInsert
+                0x0800186e       0x72 libcubemx.a(list.c.obj)
+                0x0800186e                vListInsert
+ .text.uxListRemove
+                0x080018e0       0x54 libcubemx.a(list.c.obj)
+                0x080018e0                uxListRemove
+ .text.xQueueGenericReset
+                0x08001934       0xd4 libcubemx.a(queue.c.obj)
+                0x08001934                xQueueGenericReset
+ .text.xQueueGenericCreateStatic
+                0x08001a08       0xfa libcubemx.a(queue.c.obj)
+                0x08001a08                xQueueGenericCreateStatic
+ .text.prvInitialiseNewQueue
+                0x08001b02       0x46 libcubemx.a(queue.c.obj)
+ .text.xQueueGenericSend
+                0x08001b48      0x204 libcubemx.a(queue.c.obj)
+                0x08001b48                xQueueGenericSend
+ .text.xQueueGenericSendFromISR
+                0x08001d4c      0x13c libcubemx.a(queue.c.obj)
+                0x08001d4c                xQueueGenericSendFromISR
+ .text.xQueueReceive
+                0x08001e88      0x1c4 libcubemx.a(queue.c.obj)
+                0x08001e88                xQueueReceive
+ .text.prvCopyDataToQueue
+                0x0800204c       0xd4 libcubemx.a(queue.c.obj)
+ .text.prvCopyDataFromQueue
+                0x08002120       0x4c libcubemx.a(queue.c.obj)
+ .text.prvUnlockQueue
+                0x0800216c       0xa4 libcubemx.a(queue.c.obj)
+ .text.prvIsQueueEmpty
+                0x08002210       0x2c libcubemx.a(queue.c.obj)
+ .text.prvIsQueueFull
+                0x0800223c       0x30 libcubemx.a(queue.c.obj)
+ .text.vQueueAddToRegistry
+                0x0800226c       0x54 libcubemx.a(queue.c.obj)
+                0x0800226c                vQueueAddToRegistry
+ .text.vQueueWaitForMessageRestricted
+                0x080022c0       0x68 libcubemx.a(queue.c.obj)
+                0x080022c0                vQueueWaitForMessageRestricted
+ .text.xTaskCreateStatic
+                0x08002328       0xc0 libcubemx.a(tasks.c.obj)
+                0x08002328                xTaskCreateStatic
+ .text.prvInitialiseNewTask
+                0x080023e8      0x150 libcubemx.a(tasks.c.obj)
+ .text.prvAddNewTaskToReadyList
+                0x08002538       0xe0 libcubemx.a(tasks.c.obj)
+ .text.vTaskStartScheduler
+                0x08002618       0xe0 libcubemx.a(tasks.c.obj)
+                0x08002618                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x080026f8       0x1c libcubemx.a(tasks.c.obj)
+                0x080026f8                vTaskSuspendAll
+ .text.xTaskResumeAll
+                0x08002714      0x13c libcubemx.a(tasks.c.obj)
+                0x08002714                xTaskResumeAll
+ .text.xTaskGetTickCount
+                0x08002850       0x20 libcubemx.a(tasks.c.obj)
+                0x08002850                xTaskGetTickCount
+ .text.xTaskIncrementTick
+                0x08002870      0x174 libcubemx.a(tasks.c.obj)
+                0x08002870                xTaskIncrementTick
+ .text.vTaskSwitchContext
+                0x080029e4       0xcc libcubemx.a(tasks.c.obj)
+                0x080029e4                vTaskSwitchContext
+ .text.vTaskPlaceOnEventList
+                0x08002ab0       0x4c libcubemx.a(tasks.c.obj)
+                0x08002ab0                vTaskPlaceOnEventList
+ .text.vTaskPlaceOnEventListRestricted
+                0x08002afc       0x58 libcubemx.a(tasks.c.obj)
+                0x08002afc                vTaskPlaceOnEventListRestricted
+ .text.xTaskRemoveFromEventList
+                0x08002b54       0xc8 libcubemx.a(tasks.c.obj)
+                0x08002b54                xTaskRemoveFromEventList
+ .text.vTaskInternalSetTimeOutState
+                0x08002c1c       0x2c libcubemx.a(tasks.c.obj)
+                0x08002c1c                vTaskInternalSetTimeOutState
+ .text.xTaskCheckForTimeOut
+                0x08002c48       0xc8 libcubemx.a(tasks.c.obj)
+                0x08002c48                xTaskCheckForTimeOut
+ .text.vTaskMissedYield
+                0x08002d10       0x18 libcubemx.a(tasks.c.obj)
+                0x08002d10                vTaskMissedYield
+ .text.prvIdleTask
+                0x08002d28       0x30 libcubemx.a(tasks.c.obj)
+ .text.prvInitialiseTaskLists
+                0x08002d58       0x80 libcubemx.a(tasks.c.obj)
+ .text.prvCheckTasksWaitingTermination
+                0x08002dd8       0x5c libcubemx.a(tasks.c.obj)
+ .text.prvDeleteTCB
+                0x08002e34       0x6a libcubemx.a(tasks.c.obj)
+ *fill*         0x08002e9e        0x2 
+ .text.prvResetNextTaskUnblockTime
+                0x08002ea0       0x40 libcubemx.a(tasks.c.obj)
+ .text.xTaskGetSchedulerState
+                0x08002ee0       0x3c libcubemx.a(tasks.c.obj)
+                0x08002ee0                xTaskGetSchedulerState
+ .text.xTaskPriorityDisinherit
+                0x08002f1c       0xe0 libcubemx.a(tasks.c.obj)
+                0x08002f1c                xTaskPriorityDisinherit
+ .text.prvAddCurrentTaskToDelayedList
+                0x08002ffc       0xa8 libcubemx.a(tasks.c.obj)
+ .text.xTimerCreateTimerTask
+                0x080030a4       0x94 libcubemx.a(timers.c.obj)
+                0x080030a4                xTimerCreateTimerTask
+ .text.xTimerGenericCommand
+                0x08003138       0x9c libcubemx.a(timers.c.obj)
+                0x08003138                xTimerGenericCommand
+ .text.prvProcessExpiredTimer
+                0x080031d4       0x9c libcubemx.a(timers.c.obj)
+ .text.prvTimerTask
+                0x08003270       0x26 libcubemx.a(timers.c.obj)
+ *fill*         0x08003296        0x2 
+ .text.prvProcessTimerOrBlockTask
+                0x08003298       0x9c libcubemx.a(timers.c.obj)
+ .text.prvGetNextExpireTime
+                0x08003334       0x48 libcubemx.a(timers.c.obj)
+ .text.prvSampleTimeNow
+                0x0800337c       0x40 libcubemx.a(timers.c.obj)
+ .text.prvInsertTimerInActiveList
+                0x080033bc       0x84 libcubemx.a(timers.c.obj)
+ .text.prvProcessReceivedCommands
+                0x08003440      0x1cc libcubemx.a(timers.c.obj)
+ .text.prvSwitchTimerLists
+                0x0800360c       0xcc libcubemx.a(timers.c.obj)
+ .text.prvCheckForValidListAndQueue
+                0x080036d8       0x80 libcubemx.a(timers.c.obj)
+ .text.kernel_init
+                0x08003758        0xe _deps/canzero-kernel-build/libcanzero-kernel.a(lib.c.obj)
+                0x08003758                kernel_init
+ .text.__udivmoddi4
+                0x08003766      0x2a0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x08003766                __udivmoddi4
+ .text.memcpy   0x08003a06       0x1c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+                0x08003a06                memcpy
+ *(.glue_7)
+ .glue_7        0x08003a22        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08003a22        0x0 linker stubs
+ *(.eh_frame)
+ *fill*         0x08003a22        0x2 
+ .eh_frame      0x08003a24        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x08003a24        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crti.o
+                0x08003a24                _init
+ .init          0x08003a28        0x8 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x08003a30        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crti.o
+                0x08003a30                _fini
+ .fini          0x08003a34        0x8 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtn.o
+                0x08003a3c                        . = ALIGN (0x4)
+                0x08003a3c                        _etext = .
+
+.vfp11_veneer   0x08003a3c        0x0
+ .vfp11_veneer  0x08003a3c        0x0 linker stubs
+
+.v4_bx          0x08003a3c        0x0
+ .v4_bx         0x08003a3c        0x0 linker stubs
+
+.iplt           0x08003a3c        0x0
+ .iplt          0x08003a3c        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x08003a3c       0x28
+                0x08003a3c                        . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08003a3c        0x5 libcubemx.a(tasks.c.obj)
+ *fill*         0x08003a41        0x3 
+ .rodata        0x08003a44        0xd libcubemx.a(timers.c.obj)
+ *(.rodata*)
+ *fill*         0x08003a51        0x3 
+ .rodata.AHBPrescTable
+                0x08003a54       0x10 libcubemx.a(system_stm32f4xx.c.obj)
+                0x08003a54                AHBPrescTable
+                0x08003a64                        . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08003a64        0x8
+                0x08003a64                        __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx.text.__udivmoddi4
+                0x08003a64        0x8 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x08003a6c                        __exidx_end = .
+
+.rel.dyn        0x08003a6c        0x0
+ .rel.iplt      0x08003a6c        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+
+.preinit_array  0x08003a6c        0x0
+                0x08003a6c                        PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x08003a6c                        PROVIDE (__preinit_array_end = .)
+
+.init_array     0x08003a6c        0x4
+                0x08003a6c                        PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08003a6c        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08003a70                        PROVIDE (__init_array_end = .)
+
+.fini_array     0x08003a70        0x4
+                0x08003a70                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08003a70        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+                0x08003a74                        PROVIDE (__fini_array_end = .)
+                0x08003a74                        _sidata = LOADADDR (.data)
+
+.data           0x20000000       0x60 load address 0x08003a74
+                0x20000000                        . = ALIGN (0x4)
+                0x20000000                        _sdata = .
+ *(.data)
+ *(.data*)
+ .data._impure_ptr
+                0x20000000        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                0x20000000                _impure_ptr
+ .data._impure_data
+                0x20000004       0x4c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+                0x20000004                _impure_data
+ .data.SystemCoreClock
+                0x20000050        0x4 libcubemx.a(system_stm32f4xx.c.obj)
+                0x20000050                SystemCoreClock
+ .data.uwTickPrio
+                0x20000054        0x4 libcubemx.a(stm32f4xx_hal.c.obj)
+                0x20000054                uwTickPrio
+ .data.uwTickFreq
+                0x20000058        0x1 libcubemx.a(stm32f4xx_hal.c.obj)
+                0x20000058                uwTickFreq
+ *fill*         0x20000059        0x3 
+ .data.uxCriticalNesting
+                0x2000005c        0x4 libcubemx.a(port.c.obj)
+                0x20000060                        . = ALIGN (0x4)
+                0x20000060                        _edata = .
+                0x08003ad4                        _siccmram = LOADADDR (.ccmram)
+
+.igot.plt       0x20000060        0x0 load address 0x08003ad4
+ .igot.plt      0x20000060        0x0 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ccmram         0x10000000        0x0 load address 0x08003ad4
+                0x10000000                        . = ALIGN (0x4)
+                0x10000000                        _sccmram = .
+ *(.ccmram)
+ *(.ccmram*)
+                0x10000000                        . = ALIGN (0x4)
+                0x10000000                        _eccmram = .
+                0x10000000                        . = ALIGN (0x4)
+
+.bss            0x20000060      0xf40
+                0x20000060                        _sbss = .
+                0x20000060                        __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.completed.1
+                0x20000060        0x1 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ *fill*         0x20000061        0x3 
+ .bss.object.0  0x20000064       0x18 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .bss.__sf      0x2000007c      0x138 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                0x2000007c                __sf
+ .bss.__lock___malloc_recursive_mutex
+                0x200001b4        0x1 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+                0x200001b4                __lock___malloc_recursive_mutex
+ *fill*         0x200001b5        0x3 
+ .bss.__malloc_free_list
+                0x200001b8        0x4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+                0x200001b8                __malloc_free_list
+ .bss.uwTick    0x200001bc        0x4 libcubemx.a(stm32f4xx_hal.c.obj)
+                0x200001bc                uwTick
+ .bss.KernelState
+                0x200001c0        0x4 libcubemx.a(cmsis_os2.c.obj)
+ .bss.Idle_TCB.3
+                0x200001c4       0xa8 libcubemx.a(cmsis_os2.c.obj)
+ .bss.Idle_Stack.2
+                0x2000026c      0x200 libcubemx.a(cmsis_os2.c.obj)
+ .bss.Timer_TCB.1
+                0x2000046c       0xa8 libcubemx.a(cmsis_os2.c.obj)
+ .bss.Timer_Stack.0
+                0x20000514      0x400 libcubemx.a(cmsis_os2.c.obj)
+ .bss.xStart    0x20000914        0x8 libcubemx.a(heap_4.c.obj)
+ .bss.pxEnd     0x2000091c        0x4 libcubemx.a(heap_4.c.obj)
+ .bss.xFreeBytesRemaining
+                0x20000920        0x4 libcubemx.a(heap_4.c.obj)
+ .bss.xNumberOfSuccessfulFrees
+                0x20000924        0x4 libcubemx.a(heap_4.c.obj)
+ .bss.xBlockAllocatedBit
+                0x20000928        0x4 libcubemx.a(heap_4.c.obj)
+ .bss.ucMaxSysCallPriority
+                0x2000092c        0x1 libcubemx.a(port.c.obj)
+ *fill*         0x2000092d        0x3 
+ .bss.ulMaxPRIGROUPValue
+                0x20000930        0x4 libcubemx.a(port.c.obj)
+ .bss.xQueueRegistry
+                0x20000934       0x40 libcubemx.a(queue.c.obj)
+                0x20000934                xQueueRegistry
+ .bss.pxCurrentTCB
+                0x20000974        0x4 libcubemx.a(tasks.c.obj)
+                0x20000974                pxCurrentTCB
+ .bss.pxReadyTasksLists
+                0x20000978      0x460 libcubemx.a(tasks.c.obj)
+ .bss.xDelayedTaskList1
+                0x20000dd8       0x14 libcubemx.a(tasks.c.obj)
+ .bss.xDelayedTaskList2
+                0x20000dec       0x14 libcubemx.a(tasks.c.obj)
+ .bss.pxDelayedTaskList
+                0x20000e00        0x4 libcubemx.a(tasks.c.obj)
+ .bss.pxOverflowDelayedTaskList
+                0x20000e04        0x4 libcubemx.a(tasks.c.obj)
+ .bss.xPendingReadyList
+                0x20000e08       0x14 libcubemx.a(tasks.c.obj)
+ .bss.xTasksWaitingTermination
+                0x20000e1c       0x14 libcubemx.a(tasks.c.obj)
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x20000e30        0x4 libcubemx.a(tasks.c.obj)
+ .bss.xSuspendedTaskList
+                0x20000e34       0x14 libcubemx.a(tasks.c.obj)
+ .bss.uxCurrentNumberOfTasks
+                0x20000e48        0x4 libcubemx.a(tasks.c.obj)
+ .bss.xTickCount
+                0x20000e4c        0x4 libcubemx.a(tasks.c.obj)
+ .bss.uxTopReadyPriority
+                0x20000e50        0x4 libcubemx.a(tasks.c.obj)
+ .bss.xSchedulerRunning
+                0x20000e54        0x4 libcubemx.a(tasks.c.obj)
+ .bss.xPendedTicks
+                0x20000e58        0x4 libcubemx.a(tasks.c.obj)
+ .bss.xYieldPending
+                0x20000e5c        0x4 libcubemx.a(tasks.c.obj)
+ .bss.xNumOfOverflows
+                0x20000e60        0x4 libcubemx.a(tasks.c.obj)
+ .bss.uxTaskNumber
+                0x20000e64        0x4 libcubemx.a(tasks.c.obj)
+ .bss.xNextTaskUnblockTime
+                0x20000e68        0x4 libcubemx.a(tasks.c.obj)
+ .bss.xIdleTaskHandle
+                0x20000e6c        0x4 libcubemx.a(tasks.c.obj)
+ .bss.uxSchedulerSuspended
+                0x20000e70        0x4 libcubemx.a(tasks.c.obj)
+ .bss.xActiveTimerList1
+                0x20000e74       0x14 libcubemx.a(timers.c.obj)
+ .bss.xActiveTimerList2
+                0x20000e88       0x14 libcubemx.a(timers.c.obj)
+ .bss.pxCurrentTimerList
+                0x20000e9c        0x4 libcubemx.a(timers.c.obj)
+ .bss.pxOverflowTimerList
+                0x20000ea0        0x4 libcubemx.a(timers.c.obj)
+ .bss.xTimerQueue
+                0x20000ea4        0x4 libcubemx.a(timers.c.obj)
+ .bss.xTimerTaskHandle
+                0x20000ea8        0x4 libcubemx.a(timers.c.obj)
+ .bss.xLastTime.2
+                0x20000eac        0x4 libcubemx.a(timers.c.obj)
+ .bss.ucStaticTimerQueueStorage.1
+                0x20000eb0       0xa0 libcubemx.a(timers.c.obj)
+ .bss.xStaticTimerQueue.0
+                0x20000f50       0x50 libcubemx.a(timers.c.obj)
+ *(COMMON)
+                0x20000fa0                        . = ALIGN (0x4)
+                0x20000fa0                        _ebss = .
+                0x20000fa0                        __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000fa0      0x600
+                0x20000fa0                        . = ALIGN (0x8)
+                0x20000fa0                        PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x200011a0                        . = (. + _Min_Heap_Size)
+ *fill*         0x20000fa0      0x200 
+                0x200015a0                        . = (. + _Min_Stack_Size)
+ *fill*         0x200011a0      0x400 
+                0x200015a0                        . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x22 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .ARM.attributes
+                0x0000008a       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .ARM.attributes
+                0x000000be       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .ARM.attributes
+                0x000000f2       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .ARM.attributes
+                0x00000126       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .ARM.attributes
+                0x0000015a       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .ARM.attributes
+                0x0000018e       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .ARM.attributes
+                0x000001c2       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .ARM.attributes
+                0x000001f6       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .ARM.attributes
+                0x0000022a       0x34 CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .ARM.attributes
+                0x0000025e       0x21 CMakeFiles/canzero-app-boot.dir/startup.s.obj
+ .ARM.attributes
+                0x0000027f       0x34 libcubemx.a(system_stm32f4xx.c.obj)
+ .ARM.attributes
+                0x000002b3       0x34 libcubemx.a(stm32f4xx_hal.c.obj)
+ .ARM.attributes
+                0x000002e7       0x34 libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .ARM.attributes
+                0x0000031b       0x34 libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .ARM.attributes
+                0x0000034f       0x34 libcubemx.a(cmsis_os2.c.obj)
+ .ARM.attributes
+                0x00000383       0x34 libcubemx.a(heap_4.c.obj)
+ .ARM.attributes
+                0x000003b7       0x34 libcubemx.a(port.c.obj)
+ .ARM.attributes
+                0x000003eb       0x34 libcubemx.a(list.c.obj)
+ .ARM.attributes
+                0x0000041f       0x34 libcubemx.a(queue.c.obj)
+ .ARM.attributes
+                0x00000453       0x34 libcubemx.a(tasks.c.obj)
+ .ARM.attributes
+                0x00000487       0x34 libcubemx.a(timers.c.obj)
+ .ARM.attributes
+                0x000004bb       0x34 _deps/canzero-kernel-build/libcanzero-kernel.a(lib.c.obj)
+ .ARM.attributes
+                0x000004ef       0x22 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000511       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000545       0x22 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000567       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000059b       0x22 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(canzero-app-boot.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a
+
+.debug_info     0x00000000     0x44f8
+ .debug_info    0x00000000      0xfa9 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_info    0x00000fa9       0xe0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_info    0x00001089      0x855 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_info    0x000018de      0x715 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .debug_info    0x00001ff3      0x10b /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_info    0x000020fe      0x20a /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_info    0x00002308      0x84b /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_info    0x00002b53      0x9b6 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_info    0x00003509      0x76b /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_info    0x00003c74       0x24 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x00003c98      0x703 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_info    0x0000439b       0x3c /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x000043d7      0x121 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+
+.debug_abbrev   0x00000000     0x127a
+ .debug_abbrev  0x00000000      0x424 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_abbrev  0x00000424       0x9e /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_abbrev  0x000004c2      0x1ed /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_abbrev  0x000006af      0x149 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .debug_abbrev  0x000007f8       0xc9 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_abbrev  0x000008c1      0x115 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_abbrev  0x000009d6      0x236 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_abbrev  0x00000c0c      0x24a /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_abbrev  0x00000e56      0x1bf /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_abbrev  0x00001015       0x14 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x00001029      0x16a /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_abbrev  0x00001193       0x26 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000011b9       0xc1 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+
+.debug_loclists
+                0x00000000      0xe90
+ .debug_loclists
+                0x00000000      0x252 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_loclists
+                0x00000252       0x47 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_loclists
+                0x00000299       0x72 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_loclists
+                0x0000030b       0x44 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_loclists
+                0x0000034f       0x23 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_loclists
+                0x00000372       0xd4 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_loclists
+                0x00000446      0x219 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_loclists
+                0x0000065f       0x3a /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_loclists
+                0x00000699      0x768 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_loclists
+                0x00000e01       0x8f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+
+.debug_aranges  0x00000000      0x248
+ .debug_aranges
+                0x00000000       0x78 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_aranges
+                0x00000078       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_aranges
+                0x00000098       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_aranges
+                0x000000b8       0x18 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .debug_aranges
+                0x000000d0       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_aranges
+                0x000000f0       0x68 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_aranges
+                0x00000158       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_aranges
+                0x00000178       0x28 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_aranges
+                0x000001a0       0x28 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_aranges
+                0x000001c8       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x000001e8       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_aranges
+                0x00000208       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x00000228       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+
+.debug_rnglists
+                0x00000000      0x1ef
+ .debug_rnglists
+                0x00000000       0x7a /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_rnglists
+                0x0000007a       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_rnglists
+                0x0000008d       0x30 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_rnglists
+                0x000000bd       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_rnglists
+                0x000000d0       0x49 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_rnglists
+                0x00000119       0x14 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_rnglists
+                0x0000012d       0x29 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_rnglists
+                0x00000156       0x19 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_rnglists
+                0x0000016f       0x6d /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_rnglists
+                0x000001dc       0x13 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+
+.debug_line     0x00000000     0x1c78
+ .debug_line    0x00000000      0x533 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_line    0x00000533      0x123 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_line    0x00000656      0x274 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_line    0x000008ca      0x108 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .debug_line    0x000009d2      0x135 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_line    0x00000b07      0x17d /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_line    0x00000c84      0x2b2 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_line    0x00000f36      0x47a /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_line    0x000013b0      0x18a /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_line    0x0000153a       0x4e /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x00001588      0x515 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_line    0x00001a9d       0x4a /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00001ae7      0x191 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+
+.debug_str      0x00000000     0x12d0
+ .debug_str     0x00000000     0x12d0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                                0x762 (size before relaxing)
+ .debug_str     0x000012d0      0x1bf /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_str     0x000012d0      0x4fe /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_str     0x000012d0      0x4df /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .debug_str     0x000012d0      0x220 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_str     0x000012d0      0x332 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_str     0x000012d0      0x55f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_str     0x000012d0      0x5c0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_str     0x000012d0      0x561 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_str     0x000012d0       0x9e /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_str     0x000012d0      0x6b6 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_str     0x000012d0       0xbe /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .debug_str     0x000012d0      0x1dd /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+
+.comment        0x00000000       0x3c
+ .comment       0x00000000       0x3c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+                                 0x1f (size before relaxing)
+ .comment       0x0000003c       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .comment       0x0000003c       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .comment       0x0000003c       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-impure.o)
+ .comment       0x0000003c       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .comment       0x0000003c       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .comment       0x0000003c       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .comment       0x0000003c       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .comment       0x0000003c       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .comment       0x0000003c       0x1f CMakeFiles/canzero-app-boot.dir/entry.c.obj
+ .comment       0x0000003c       0x1f libcubemx.a(system_stm32f4xx.c.obj)
+ .comment       0x0000003c       0x1f libcubemx.a(stm32f4xx_hal.c.obj)
+ .comment       0x0000003c       0x1f libcubemx.a(stm32f4xx_hal_cortex.c.obj)
+ .comment       0x0000003c       0x1f libcubemx.a(stm32f4xx_hal_rcc.c.obj)
+ .comment       0x0000003c       0x1f libcubemx.a(cmsis_os2.c.obj)
+ .comment       0x0000003c       0x1f libcubemx.a(heap_4.c.obj)
+ .comment       0x0000003c       0x1f libcubemx.a(port.c.obj)
+ .comment       0x0000003c       0x1f libcubemx.a(list.c.obj)
+ .comment       0x0000003c       0x1f libcubemx.a(queue.c.obj)
+ .comment       0x0000003c       0x1f libcubemx.a(tasks.c.obj)
+ .comment       0x0000003c       0x1f libcubemx.a(timers.c.obj)
+ .comment       0x0000003c       0x1f _deps/canzero-kernel-build/libcanzero-kernel.a(lib.c.obj)
+ .comment       0x0000003c       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .comment       0x0000003c       0x1f /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+
+.debug_frame    0x00000000      0x3b4
+ .debug_frame   0x00000000      0x144 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000144       0x20 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000164       0x38 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-reent.o)
+ .debug_frame   0x0000019c       0x2c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-init.o)
+ .debug_frame   0x000001c8       0xb0 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000278       0x38 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-freer.o)
+ .debug_frame   0x000002b0       0x4c /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x000002fc       0x30 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-mlock.o)
+ .debug_frame   0x0000032c       0x2c /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000358       0x34 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000038c       0x28 /usr/lib/gcc/arm-none-eabi/13.2.0/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(libc_a-memcpy-stub.o)
+
+.debug_line_str
+                0x00000000       0x9e
+ .debug_line_str
+                0x00000000       0x9e /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                                 0x92 (size before relaxing)
+ .debug_line_str
+                0x0000009e       0x96 /usr/lib/gcc/arm-none-eabi/13.2.0/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)

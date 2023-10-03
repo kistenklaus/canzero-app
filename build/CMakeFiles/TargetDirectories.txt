@@ -1,0 +1,8 @@
+/home/kistenklaus/Documents/canzero-app/build/CMakeFiles/canzero-app.dir
+/home/kistenklaus/Documents/canzero-app/build/CMakeFiles/cubemx.dir
+/home/kistenklaus/Documents/canzero-app/build/CMakeFiles/canzero-app-boot.dir
+/home/kistenklaus/Documents/canzero-app/build/CMakeFiles/edit_cache.dir
+/home/kistenklaus/Documents/canzero-app/build/CMakeFiles/rebuild_cache.dir
+/home/kistenklaus/Documents/canzero-app/build/_deps/canzero-kernel-build/CMakeFiles/canzero-kernel.dir
+/home/kistenklaus/Documents/canzero-app/build/_deps/canzero-kernel-build/CMakeFiles/edit_cache.dir
+/home/kistenklaus/Documents/canzero-app/build/_deps/canzero-kernel-build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/kistenklaus/Documents/canzero-app/build/_deps/canzero-kernel-subbuild/CMakeFiles/canzero-kernel-populate.dir
+/home/kistenklaus/Documents/canzero-app/build/_deps/canzero-kernel-subbuild/CMakeFiles/edit_cache.dir
+/home/kistenklaus/Documents/canzero-app/build/_deps/canzero-kernel-subbuild/CMakeFiles/rebuild_cache.dir

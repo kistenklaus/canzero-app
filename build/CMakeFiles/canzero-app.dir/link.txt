@@ -1,0 +1,2 @@
+/usr/bin/arm-none-eabi-ar qc libcanzero-app.a "CMakeFiles/canzero-app.dir/src/main.c.obj"
+/usr/bin/arm-none-eabi-ranlib libcanzero-app.a
